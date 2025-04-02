@@ -1,0 +1,69 @@
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\bin\Debug\net8.0-windows\sistema escola.exe
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\bin\Debug\net8.0-windows\sistema escola.deps.json
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\bin\Debug\net8.0-windows\sistema escola.runtimeconfig.json
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\bin\Debug\net8.0-windows\sistema escola.dll
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\bin\Debug\net8.0-windows\sistema escola.pdb
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\obj\Debug\net8.0-windows\sistema escola.csproj.AssemblyReference.cache
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\obj\Debug\net8.0-windows\sistema_escola.Form1.resources
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\obj\Debug\net8.0-windows\sistema escola.csproj.GenerateResource.cache
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\obj\Debug\net8.0-windows\sistema escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\obj\Debug\net8.0-windows\sistema escola.AssemblyInfoInputs.cache
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\obj\Debug\net8.0-windows\sistema escola.AssemblyInfo.cs
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\obj\Debug\net8.0-windows\sistema escola.csproj.CoreCompileInputs.cache
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\obj\Debug\net8.0-windows\sistema escola.sourcelink.json
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\obj\Debug\net8.0-windows\sistema .A071C270.Up2Date
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\obj\Debug\net8.0-windows\sistema escola.dll
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\obj\Debug\net8.0-windows\refint\sistema escola.dll
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\obj\Debug\net8.0-windows\sistema escola.pdb
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\obj\Debug\net8.0-windows\sistema escola.genruntimeconfig.cache
+C:\Users\Aluno_Manha\source\repos\sistema escola\sistema escola\obj\Debug\net8.0-windows\ref\sistema escola.dll
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\bin\Debug\net8.0-windows\sistema escola.exe
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\bin\Debug\net8.0-windows\sistema escola.deps.json
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\bin\Debug\net8.0-windows\sistema escola.runtimeconfig.json
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\bin\Debug\net8.0-windows\sistema escola.dll
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\bin\Debug\net8.0-windows\sistema escola.pdb
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\obj\Debug\net8.0-windows\sistema escola.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\obj\Debug\net8.0-windows\sistema_escola.Form1.resources
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\obj\Debug\net8.0-windows\sistema escola.csproj.GenerateResource.cache
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\obj\Debug\net8.0-windows\sistema escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\obj\Debug\net8.0-windows\sistema escola.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\obj\Debug\net8.0-windows\sistema escola.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\obj\Debug\net8.0-windows\sistema escola.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\obj\Debug\net8.0-windows\sistema .A071C270.Up2Date
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\obj\Debug\net8.0-windows\sistema escola.dll
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\obj\Debug\net8.0-windows\refint\sistema escola.dll
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\obj\Debug\net8.0-windows\sistema escola.pdb
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\obj\Debug\net8.0-windows\sistema escola.genruntimeconfig.cache
+C:\Users\rober\OneDrive\Desktop\sistema escola\sistema escola\obj\Debug\net8.0-windows\ref\sistema escola.dll

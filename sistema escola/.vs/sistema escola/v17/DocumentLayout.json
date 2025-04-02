@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rober\\OneDrive\\Desktop\\sistema escola\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67DD0E52-E496-4D34-A0B8-26B93DF459F8}|sistema escola\\sistema escola.csproj|c:\\users\\rober\\onedrive\\desktop\\sistema escola\\sistema escola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DD0E52-E496-4D34-A0B8-26B93DF459F8}|sistema escola\\sistema escola.csproj|solutionrelative:sistema escola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DD0E52-E496-4D34-A0B8-26B93DF459F8}|sistema escola\\sistema escola.csproj|c:\\users\\rober\\onedrive\\desktop\\sistema escola\\sistema escola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67DD0E52-E496-4D34-A0B8-26B93DF459F8}|sistema escola\\sistema escola.csproj|solutionrelative:sistema escola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Desktop\\sistema escola\\sistema escola\\Form1.cs",
+              "RelativeDocumentMoniker": "sistema escola\\Form1.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Desktop\\sistema escola\\sistema escola\\Form1.cs",
+              "RelativeToolTip": "sistema escola\\Form1.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAcwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:52:44.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Desktop\\sistema escola\\sistema escola\\Form1.cs",
+              "RelativeDocumentMoniker": "sistema escola\\Form1.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Desktop\\sistema escola\\sistema escola\\Form1.cs [Projeto]",
+              "RelativeToolTip": "sistema escola\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:23:53.305Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
